@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+## **Hello, My name is Siddesh Thorat.**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I am currently working as Software Engineer in Raja Software Labs in Pune. I am a developer with keen mentality of learning and adopting to the new and frequently changing technologies. I like to deal with and solve complex problems which enables me to learn and enhance my skillset with every passing day.
 
-## Available Scripts
+I tend to build small portfolio projects in my free time so as to learn new technologies or get expertise over an existing one's. 
 
-In the project directory, you can run:
+Following is the description of this project. Please let me know your suggestions about this.  
 
-### `yarn start`
+**PORTFOLIO PROJECT** (https://shopmart-st.herokuapp.com/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Following is an implementation of end-to-end responsive e-commerce website. This project contains implementation of all the functionality an ideal e-commerce website is expected to have. The webstie contains a Homepage, Shoppage and categories page for displaying the available products. The user can authenticate themselves by registering using the SignUp form provided on Sign-In-Sign-Up page. The user can also authenticate themselves using the `Sign In With Google` button. The project uses firebase datastore in order to store the record of registered users. Besides this, the website also contains other functionality like adding into cart, removing from cart, checkout flow. Stripe payment gateway is integrated to in order to demonstrate the payment gateway implementation. Following is step wise implementation of pages and functionlaity in this website.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+_Pages in this Website_
+* Homepage
+* Shopage
+* Product page
+* Checkout page
+* Register and SignIn page
 
-### `yarn test`
+_Functionalities implemented across the site_
+* Proper back and forth navigation through the site
+* Adding item to Cart
+* Adding item to cart works only if user is logged in else a modal box appears asking to login first.
+* Removing item from Cart
+* Navigating to checkout page which shows list of all the items in cart along with total price and button for completing payments.
+* Registration using registration form
+* Signing In using already registered email id or using Google SignIn option
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Following is the list of technologies and concepts used throughtout the project
 
-### `yarn build`
+- **Client End**: ReactJS
+- **Styling:** Styled Components(CSS using JS)
+- **State Management:** Redux
+- **Other libraries used along with Redux:** Redux-Thunk/ Redux-Persist/ Reselect/ lodash.memoize
+- **DataStore:** Firebase
+- **Server Side:** Express JS
+- **Payment gateway:** Stripe
+- **PWA:** The mentioned website is a progressive web app.
+- **Deployment**: Heroku(https://shopmart-st.herokuapp.com/)
+## Implemented following concepts 
+- Memoization
+- Persistence of redux state
+- Currying
+- Code Splitting
+- Error Boundaries
+- React component level optimization using React.memo, pure components etc
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+_Any suggestions are highly appreciated. Feel free to reach out to me at_
+- siddeshthorat1998@gmail.com
+- +91-9130114935
+- https://www.linkedin.com/in/siddesh-thorat-b3b215145/
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
