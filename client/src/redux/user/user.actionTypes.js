@@ -1,0 +1,4 @@
+export const userActions = {
+    SET_CURRENT_USER: 'SET_CURRENT_USER',
+    IS_SIGNOUT_SUCCESS: 'IS_SIGNOUT_SUCCESS'
+}
