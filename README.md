@@ -1,10 +1,3 @@
-## **Hello, My name is Siddesh Thorat.**
-
-I am currently working as Software Engineer in Raja Software Labs in Pune. I am a developer with keen mentality of learning and adopting to the new and frequently changing technologies. I like to deal with and solve complex problems which enables me to learn and enhance my skillset with every passing day.
-
-I tend to build small portfolio projects in my free time so as to learn new technologies or get expertise over an existing one's. 
-
-Following is the description of this project. Please let me know your suggestions about this.  
 
 **PORTFOLIO PROJECT** (https://shopmart-st.herokuapp.com/)
 
